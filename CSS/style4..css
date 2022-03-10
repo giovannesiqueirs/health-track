@@ -1,0 +1,55 @@
+.hero{
+        width: 100%;
+        height: 100vh;
+        padding: 0 10px 250px;
+        background-image: linear-gradient(rgba(0,0,0,5),rgba(0,0,0,0)),
+        url(../img/fundo.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        color: aliceblue;
+         text-align: center;
+       text-decoration: none;
+
+}
+ul{
+    list-style:none;
+    text-decoration: none;
+    text-align-last: left;
+    background-position-x: left;
+    text-decoration-line: none;
+    
+    
+}
+h1{
+    font-family: 'orbitron';
+   
+  
+}
+.line{
+    width: 200px;
+    height: 0.2px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    margin: 15px;
+    margin-right: 15px;
+   
+
+}
+#s1,#s2, #s3, #s4, #s5{
+   
+    text-decoration:white;
+    text-transform:none ;
+    font-family: 'orbitron';
+    color: whitesmoke;
+    font-size:large;
+   
+}
+#ico01{
+    margin-right: 10px;
+}
+

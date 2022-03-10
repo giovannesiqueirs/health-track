@@ -1,0 +1,78 @@
+img{
+    border-bottom: 50%;
+    height: auto;
+    position: relative;
+    top:-40px;
+    left: -100px;
+    
+}
+img {
+    position: relative;
+    margin: 5px;
+}
+#email {
+    width: 12cm;
+    height: 0cm;
+    border-color:#6CACE4;
+    font-size: 1em;
+    padding: 1em;
+  
+   
+
+        }
+#pwd {
+            width: 12cm;
+            height: 0cm;
+            border-color: #6CACE4;
+            font-size: 1em;
+            padding: 1em;
+                }
+@media screen {
+   body {
+        position: relative;
+        top: 150px;
+        left: 40px;
+    }
+#log {
+    color: #041F41;
+    font-family: 'orbitron';
+   
+}
+#botao {
+    position: relative;
+        top: 10px;
+        left:-170.9px;
+        width: 12cm;
+       margin: 15px;
+
+}
+#lembrar {
+    position: relative;
+        top: 20px;
+        left: 5px;
+        
+}
+body p {
+    background-color:#6CACE4
+}
+#icones {
+    position: relative;
+        top: 5px;
+        left: 145px;
+
+
+}
+#cad {
+    position: relative;
+    top: 35px;
+    left: -90px;
+      }
+#via {
+    
+    margin: 5px; 
+     
+}
+ol {
+   
+    margin-left: 150px;
+}

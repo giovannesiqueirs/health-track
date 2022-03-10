@@ -1,0 +1,33 @@
+h1{
+    font-family: 'orbitron';
+    left:10cm;
+    color: whitesmoke;
+}
+h2{
+    font-size: x-small;
+    color: rgb(129, 129, 129);
+}
+body{
+    width: 100%;
+    height: 100vh;
+    padding: 0 10px;
+    background-image: linear-gradient(rgba(0,0,0,5),rgba(0,0,0,0)),
+    url(../img/pexels-philip-ackermann-878151.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    
+}
+#botao1{
+    background-color: green;
+    border-color: rgb(247, 247, 248);
+}
+.form-check{
+    color:whitesmoke;
+    
+}
